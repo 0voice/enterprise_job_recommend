@@ -5,19 +5,19 @@
 <table align="center">
   </tr><tr>
   <td align="center">
-    <a href="https://github.com/0voice/enterprise_job_recommend#阿里巴巴">
+    <a href="#阿里巴巴">
       <img src="assets/logo-阿里巴巴.jpg" width="140px" height="70px">
       <p>阿里巴巴</p>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/0voice/enterprise_job_recommend#腾讯">
+    <a href="#腾讯">
       <img src="assets/logo-腾讯.jpg" width="140px" height="70px">
       <p>腾讯</p>
     </a>
   </td>
   <td align="center">
-    <a href="https://github.com/0voice/enterprise_job_recommend#百度">
+    <a href="#百度">
       <img src="assets/logo-百度.jpg" width="140px" height="70px">
       <p>百度</p>
     </a>
