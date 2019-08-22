@@ -648,6 +648,8 @@
 
 <br/>
 
+## 更多
+
 **获取技术交流, 实时内推信息, 专家架构交流3群：783153655**
 
 **C/C++ Linux技术交流群：762073882**
@@ -657,6 +659,8 @@
 **关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
 
 <img src = "https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg" />
+
+<br/>
 
 ## 鸣谢
 
