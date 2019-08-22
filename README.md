@@ -657,3 +657,22 @@
 **关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
 
 <img src = "https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg" />
+
+## 鸣谢
+
+##### 感谢各位贡献岗位信息的朋友，才能整理这份repo，方便各位大牛快速入坑，为此衷心感谢。也欢迎后续有坑信息的朋友，提交patch。
+
+<a href="https://github.com/wangbojing">
+    <img src="https://avatars2.githubusercontent.com/u/18027560?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/liaoqingfu">
+    <img src="https://avatars3.githubusercontent.com/u/15181717?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/hanaper">
+    <img src="https://avatars1.githubusercontent.com/u/15226252?s=400&v=4" width="40px">
+</a> 
+<a href="https://github.com/halleywj">
+    <img src="https://avatars1.githubusercontent.com/u/11271621?s=400&v=4" width="40px">
+</a> 
+
+
