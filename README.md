@@ -36,9 +36,9 @@
       <p>美团</p>
     </a>
   </td>
-  
+
   </tr><tr>
-  
+
   <td align="center">
     <a href="#京东">
       <img src="assets/logo-京东.jpg" width="140px" height="70px">
@@ -69,9 +69,9 @@
       <p>迅雷</p>
     </a>
   </td>
-  
+
   </tr><tr>
-  
+
   <td align="center">
     <a href="#滴滴出行">
       <img src="assets/logo-滴滴出行.jpg" width="140px" height="70px">
@@ -102,9 +102,9 @@
       <p>多益网络</p>
     </a>
   </td>
-  
+
   </tr><tr>
-  
+
   <td align="center">
     <a href="#微众银行">
       <img src="assets/logo-微众银行.jpg" width="140px" height="70px">
@@ -135,9 +135,9 @@
       <p>虎牙直播</p>
     </a>
   </td>
-  
+
   </tr><tr>
-  
+
   <td align="center">
     <a href="#沪江网校">
       <img src="assets/logo-沪江网校.jpg" width="140px" height="70px">
@@ -168,9 +168,9 @@
       <p>陌陌</p>
     </a>
   </td>
-  
+
   </tr><tr>
-  
+
   <td align="center">
     <a href="#拍拍贷">
       <img src="assets/logo-拍拍贷.jpg" width="140px" height="70px">
@@ -201,15 +201,22 @@
       <p>搜狐</p>
     </a>
   </td>
-  
+
   </tr><tr>
-  
+  </td>
+    <td align="center">
+    <a href="依图科技.md">
+      <img src="assets/logo-依图科技.jpg" width="140px">
+      <p>依图科技</p>
+    </a>
+  </td>
+
 </table>
 
 <br/>
 <br/>
 </tr><tr>
-  
+
 ## 阿里巴巴
 
 ##### [数据库DevOps研发工程师/专家（上海，杭州）](阿里巴巴.md#数据库devops研发工程师专家上海杭州)
@@ -218,7 +225,7 @@
 
 <br/>
 
-  
+
 ## 腾讯
 
 ##### [企业发展事业群 - 后台开发高级工程师（北京）](腾讯.md#企业发展事业群---后台开发高级工程师北京)
@@ -650,8 +657,3 @@
 **关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
 
 <img src = "https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg" />
-
-
-
-
-
