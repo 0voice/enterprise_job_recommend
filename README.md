@@ -656,9 +656,9 @@
 
 **若群已满，添加QQ：936204305 , 备注github**
 
-**关注公众号，更多权威架构设计方案。 另附企业内推，架构设计资料，相关视频资料**
+#### 关注微信公众号【后台服务架构师】——【联系我们】，获取本repo最全PDF学习文档！
 
-<img src = "https://github.com/0voice/interview_internal_reference/blob/master/arch.jpg" />
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
 <br/>
 
