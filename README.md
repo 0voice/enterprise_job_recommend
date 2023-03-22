@@ -1,4 +1,4 @@
-# 华中地区实习生工作岗位
+# 华中地区实习生工作岗位（湖南、湖北、河南）
 
 #### [1.1.1 DXC Technology-对日软件开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/DXC%20Technology-%E5%AF%B9%E6%97%A5%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
 
