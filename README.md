@@ -293,11 +293,126 @@
       <p>宁波</p>
     </a>
   </td>
+     <td align="center">
+    <a href="#长春">
+      <p>长春</p>
+    </a>
+  </td>
+
+  
+  </tr><tr>
+  
   <td align="center">
     <a href="#天津">
       <p>天津</p>
     </a>
   </td>
+    <td align="center">
+    <a href="#郑州">
+      <p>郑州</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#成都">
+      <p>成都</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#贵阳">
+      <p>贵阳</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#昆明">
+      <p>昆明</p>
+    </a>
+  </td>
+  
+  </tr><tr>
+  
+   <td align="center">
+    <a href="#西安">
+      <p>西安</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#佛山">
+      <p>佛山</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#福州">
+      <p>福州</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#海口">
+      <p>海口</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#厦门">
+      <p>厦门</p>
+    </a>
+  </td>
+  
+  </tr><tr>
+  
+   <td align="center">
+    <a href="#南昌">
+      <p>南昌</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#珠海">
+      <p>珠海</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#南京">
+      <p>南京</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#北京">
+      <p>北京</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#大连">
+      <p>大连</p>
+    </a>
+  </td>
+  
+  </tr><tr>
+  
+   <td align="center">
+    <a href="#哈尔滨">
+      <p>哈尔滨</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#济南">
+      <p>济南</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#青岛">
+      <p>青岛</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#沈阳">
+      <p>沈阳</p>
+    </a>
+  </td>
+   <td align="center">
+    <a href="#石家庄">
+      <p>石家庄</p>
+    </a>
+  </td>
+  
+
 
 </table>
 
@@ -320,6 +435,13 @@
 ####  [北京市-京东-测试开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E4%BA%AC%E4%B8%9C-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
 
 ####  [北京市-京东-软件开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E4%BA%AC%E4%B8%9C-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+
+
+
+### 华为
+#### [北京市-华为-软件开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%8D%8E%E4%B8%BA-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
 
 
 <br/>
