@@ -214,6 +214,63 @@
       <p>爱奇艺</p>
     </a>
   </td>
+  <td align="center">
+    <a href="#微软">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-微软.jpg" width="140px" height="70px">
+      <p>微软</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#快手">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-快手.jpg" width="140px" height="70px">
+      <p>快手</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#探探">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-探探.jpg" width="140px" height="70px">
+      <p>探探</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#完美世界">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-完美世界.jpg" width="140px" height="70px">
+      <p>完美世界</p>
+    </a>
+  </td>
+  
+  </tr><tr>
+  
+  <td align="center">
+    <a href="#寒武纪">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-寒武纪.jpg" width="140px" height="70px">
+      <p>寒武纪</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#搜狐">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-搜狐.jpg" width="140px" height="70px">
+      <p>搜狐</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#滴滴">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-滴滴.jpg" width="140px" height="70px">
+      <p>滴滴</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#科大讯飞">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-科大讯飞.jpg" width="140px" height="70px">
+      <p>科大讯飞</p>
+    </a>
+  </td>
+  <td align="center">
+    <a href="#小红书">
+      <img src="https://www.0voice.com/uiwebsite/assets/logo-小红书.jpg" width="140px" height="70px">
+      <p>小红书</p>
+    </a>
+  </td>
 
 
   
@@ -461,6 +518,69 @@
 
 ### 华为
 #### [北京市-华为-软件开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%8D%8E%E4%B8%BA-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 字节跳动
+#### [北京市-字节跳动-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-字节跳动-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-字节跳动-抖音后端研发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E6%8A%96%E9%9F%B3%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 完美世界
+#### [北京市-完美世界-Java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C-Java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-完美世界-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-完美世界-游戏开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C-%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+
+
+### 寒武纪
+#### [北京市-寒武纪-C++开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AF%92%E6%AD%A6%E7%BA%AA-C%2B%2B%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 小红书
+#### [北京市-小红书-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 微软
+#### [北京市-微软 -嵌入式开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%BE%AE%E8%BD%AF%20-%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 快手
+#### [北京市-快手-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%BF%AB%E6%89%8B-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 探探
+#### [北京市-探探-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%8E%A2%E6%8E%A2-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 搜狐
+#### [北京市-搜狐-Java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%90%9C%E7%8B%90-Java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-搜狐-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%90%9C%E7%8B%90-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 快手
+#### []()
 
 
 
