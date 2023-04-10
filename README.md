@@ -216,13 +216,13 @@
   </td>
   <td align="center">
     <a href="#微软">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-微软.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppq6yeP.jpg" width="140px" height="70px">
       <p>微软</p>
     </a>
   </td>
   <td align="center">
     <a href="#快手">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-快手.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppq62FS.jpg" width="140px" height="70px">
       <p>快手</p>
     </a>
   </td>
@@ -234,7 +234,7 @@
   </td>
   <td align="center">
     <a href="#完美世界">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-完美世界.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppqgXrR.jpg" width="140px" height="70px">
       <p>完美世界</p>
     </a>
   </td>
@@ -243,7 +243,7 @@
   
   <td align="center">
     <a href="#寒武纪">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-寒武纪.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppqgjq1.jpg" width="140px" height="70px">
       <p>寒武纪</p>
     </a>
   </td>
@@ -255,19 +255,19 @@
   </td>
   <td align="center">
     <a href="#滴滴">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-滴滴.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppqgo5T.png" width="140px" height="70px">
       <p>滴滴</p>
     </a>
   </td>
   <td align="center">
     <a href="#科大讯飞">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-科大讯飞.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppqgb24.jpg" width="140px" height="70px">
       <p>科大讯飞</p>
     </a>
   </td>
   <td align="center">
     <a href="#小红书">
-      <img src="https://www.0voice.com/uiwebsite/assets/logo-小红书.jpg" width="140px" height="70px">
+      <img src="https://s1.ax1x.com/2023/04/10/ppq2ui8.jpg" height="70px">
       <p>小红书</p>
     </a>
   </td>
