@@ -516,6 +516,50 @@
 
 
 
+### 滴滴
+#### [北京市-滴滴-后端研发实习生-天空之城A座](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8EA%E5%BA%A7.md)
+
+#### [北京市-滴滴-后端研发实习生-弘源新时代](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-%E5%BC%98%E6%BA%90%E6%96%B0%E6%97%B6%E4%BB%A3.md)
+
+#### [北京市-滴滴-后端研发实习生-新橙海大厦](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-%E6%96%B0%E6%A9%99%E6%B5%B7%E5%A4%A7%E5%8E%A6.md)
+
+#### [北京市-滴滴-后端研发实习生-钻石大厦](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-%E9%92%BB%E7%9F%B3%E5%A4%A7%E5%8E%A6.md)
+
+#### [北京市-滴滴-后端研发实习生5-北环路6号院1号楼](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F5-%E5%8C%97%E7%8E%AF%E8%B7%AF6%E5%8F%B7%E9%99%A21%E5%8F%B7%E6%A5%BC.md)
+
+#### [杭州市-滴滴-质量效能-测试开发实习生-D34552](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E8%B4%A8%E9%87%8F%E6%95%88%E8%83%BD-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-D34552.md)
+
+#### [杭州市-滴滴-运维效能-后端研发实习生-12631](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E6%BB%B4%E6%BB%B4-%E8%BF%90%E7%BB%B4%E6%95%88%E8%83%BD-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-12631.md)
+
+
+
+
+### 网易
+#### [北京市-网易-Java后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-Java%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-网易-java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-网易-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-网易-前端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-网易-后台开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-网易-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [杭州市-网易-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E7%BD%91%E6%98%93-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 网易有道
+#### [北京市-网易有道-后台开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [杭州市-网易有道-客户端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93-%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
 ### 华为
 #### [北京市-华为-软件开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%8D%8E%E4%B8%BA-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
@@ -528,6 +572,40 @@
 #### [北京市-字节跳动-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
 #### [北京市-字节跳动-抖音后端研发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E6%8A%96%E9%9F%B3%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [上海市-字节跳动-后端开发实习生-抖音电商](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-%E6%8A%96%E9%9F%B3%E7%94%B5%E5%95%86.md)
+
+#### [上海市-字节跳动-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 科大讯飞
+#### [合肥市-科大讯飞-AI工程院-技术支持实习生-合肥](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%90%88%E8%82%A5%E5%B8%82-%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E-AI%E5%B7%A5%E7%A8%8B%E9%99%A2-%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81%E5%AE%9E%E4%B9%A0%E7%94%9F-%E5%90%88%E8%82%A5.md)
+
+#### [合肥市-科大讯飞-Golang开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%90%88%E8%82%A5%E5%B8%82-%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E-Golang%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [合肥市-科大讯飞-Java实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%90%88%E8%82%A5%E5%B8%82-%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E-Java%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [合肥市-科大讯飞-前端开发（实习）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%90%88%E8%82%A5%E5%B8%82-%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%EF%BC%88%E5%AE%9E%E4%B9%A0%EF%BC%89.md)
+
+#### [合肥市-科大讯飞-工程院-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%90%88%E8%82%A5%E5%B8%82-%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E-%E5%B7%A5%E7%A8%8B%E9%99%A2-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [武汉-科大讯飞-java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E-java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 金三软件
+#### [武汉-金三软件-【实习生】云计算工程师（DevOps方向）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E4%BA%91%E8%AE%A1%E7%AE%97%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88DevOps%E6%96%B9%E5%90%91%EF%BC%89.md)
+
+#### [武汉-金三软件-【实习生】客户端开发工程师（C++）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88C%2B%2B%EF%BC%89.md)
+
+#### [武汉-金三软件-【实习生】游戏后端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E6%B8%B8%E6%88%8F%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [武汉-金三软件-【实习生】游戏设计师-世界观方向](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%B8%88-%E4%B8%96%E7%95%8C%E8%A7%82%E6%96%B9%E5%90%91.md)
+
+#### [武汉-金山软件-【实习生】引擎开发工程师（虚幻引擎C++）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E5%BC%95%E6%93%8E%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88%E8%99%9A%E5%B9%BB%E5%BC%95%E6%93%8EC%2B%2B%EF%BC%89.md)
 
 
 
@@ -544,12 +622,39 @@
 ### 寒武纪
 #### [北京市-寒武纪-C++开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%AF%92%E6%AD%A6%E7%BA%AA-C%2B%2B%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
+#### [上海市-寒武纪-C++开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%AF%92%E6%AD%A6%E7%BA%AA-C%2B%2B%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
 
 
 
 ### 小红书
 #### [北京市-小红书-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
+#### [上海市-小红书-基础后端研发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E5%9F%BA%E7%A1%80%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [全国-小红书-24届实习-Android开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%B0%8F%E7%BA%A2%E4%B9%A6-24%E5%B1%8A%E5%AE%9E%E4%B9%A0-Android%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [全国-小红书-24届实习-C++开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%B0%8F%E7%BA%A2%E4%B9%A6-24%E5%B1%8A%E5%AE%9E%E4%B9%A0-C%2B%2B%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [全国-小红书-24届实习-Java开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%B0%8F%E7%BA%A2%E4%B9%A6-24%E5%B1%8A%E5%AE%9E%E4%B9%A0-Java%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [全国-小红书-24届实习-iOS开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%B0%8F%E7%BA%A2%E4%B9%A6-24%E5%B1%8A%E5%AE%9E%E4%B9%A0-iOS%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [全国-小红书-24届实习-前端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%B0%8F%E7%BA%A2%E4%B9%A6-24%E5%B1%8A%E5%AE%9E%E4%B9%A0-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+
+
+
+### 招财科技
+#### [郑州-招财科技-VR游戏开发测试工程师实习](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%8B%9B%E8%B4%A2%E7%A7%91%E6%8A%80-VR%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AE%9E%E4%B9%A0.md)
+
+#### [郑州-招财科技-webH5前端开发实习](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%8B%9B%E8%B4%A2%E7%A7%91%E6%8A%80-webH5%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0.md)
+
+#### [郑州-招财科技-网络信息安全运维实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%8B%9B%E8%B4%A2%E7%A7%91%E6%8A%80-%E7%BD%91%E7%BB%9C%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E8%BF%90%E7%BB%B4%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [郑州-招财科技-网页设计制作实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%8B%9B%E8%B4%A2%E7%A7%91%E6%8A%80-%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E5%88%B6%E4%BD%9C%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [郑州-招财科技-软件测试定岗培养工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%8B%9B%E8%B4%A2%E7%A7%91%E6%8A%80-%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%AE%9A%E5%B2%97%E5%9F%B9%E5%85%BB%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
 
 
 
@@ -579,8 +684,164 @@
 
 
 
-### 快手
-#### []()
+### OPPO
+#### [上海市-OPPO-安卓开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-OPPO-%E5%AE%89%E5%8D%93%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 哈啰
+#### [上海市-哈啰-嵌入式开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%93%88%E5%95%B0-%E6%95%B0%E7%A7%91%E4%BA%8B%E4%B8%9A%E9%83%A8-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [上海市-哈啰-数科事业部-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%93%88%E5%95%B0-%E6%95%B0%E7%A7%91%E4%BA%8B%E4%B8%9A%E9%83%A8-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+### 哔哩哔哩
+#### [上海市-哔哩哔哩-Java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-Java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [上海市-哔哩哔哩-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [上海市-哔哩哔哩-移动端开发实习生（社区业务方向）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F%EF%BC%88%E7%A4%BE%E5%8C%BA%E4%B8%9A%E5%8A%A1%E6%96%B9%E5%90%91%EF%BC%89.md)
+
+
+
+
+### 喜马拉雅
+#### [上海市-喜马拉雅-前端开发工程师（实习）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88%E5%AE%9E%E4%B9%A0%EF%BC%89.md)
+
+
+
+
+### 携程旅行
+#### [上海市-携程旅行网-后端实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E6%90%BA%E7%A8%8B%E6%97%85%E8%A1%8C%E7%BD%91-%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 新浪支付
+#### [上海市-新浪支付-Java开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E6%96%B0%E6%B5%AA%E6%94%AF%E4%BB%98-Java%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+
+
+
+### 标准国际银行
+#### [上海市-标准国际银行-Android开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E6%A0%87%E5%87%86%E5%9B%BD%E9%99%85%E9%93%B6%E8%A1%8C-Android%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [上海市-标准国际银行-iOS开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E6%A0%87%E5%87%86%E5%9B%BD%E9%99%85%E9%93%B6%E8%A1%8C-iOS%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [上海市-标准国际银行-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E6%A0%87%E5%87%86%E5%9B%BD%E9%99%85%E9%93%B6%E8%A1%8C-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 美团
+#### [上海市-美团-Java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E4%B8%8A%E6%B5%B7%E5%B8%82-%E7%BE%8E%E5%9B%A2-Java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-美团-C++后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BE%8E%E5%9B%A2-C%2B%2B%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-美团-java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BE%8E%E5%9B%A2-java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-美团-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BE%8E%E5%9B%A2-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+### 爱奇艺
+#### [北京市-爱奇艺-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%88%B1%E5%A5%87%E8%89%BA-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 用友金融
+#### [北京市-用友金融-Java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%94%A8%E5%8F%8B%E9%87%91%E8%9E%8D-Java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [合肥市-用友金融-Java开发实习生（合肥）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%90%88%E8%82%A5%E5%B8%82-%E7%94%A8%E5%8F%8B%E9%87%91%E8%9E%8D-Java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F%EF%BC%88%E5%90%88%E8%82%A5%EF%BC%89.md)
+
+
+
+
+### 百度
+#### [北京市-百度-PHP或GO后端研发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%99%BE%E5%BA%A6-PHP%E6%88%96GO%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+
+### 知乎
+#### [北京市-知乎-golang开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%9F%A5%E4%B9%8E-golang%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 阿里巴巴
+#### [杭州市-阿里巴巴-前端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+
+
+
+
+### 豆瓣网
+#### [北京市-豆瓣网-iOS开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%B1%86%E7%93%A3%E7%BD%91-iOS%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+### 丁丁停车
+#### [南京市-丁丁停车-JS前端实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8D%97%E4%BA%AC%E5%B8%82-%E4%B8%81%E4%B8%81%E5%81%9C%E8%BD%A6-JS%E5%89%8D%E7%AB%AF%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [南京市-丁丁停车-vue开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8D%97%E4%BA%AC%E5%B8%82-%E4%B8%81%E4%B8%81%E5%81%9C%E8%BD%A6-vue%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 中科院软件所
+#### [南京市-中科院软件所-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8D%97%E4%BA%AC%E5%B8%82-%E4%B8%AD%E7%A7%91%E9%99%A2%E8%BD%AF%E4%BB%B6%E6%89%80-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [南京市-中科院软件所-操作系统实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8D%97%E4%BA%AC%E5%B8%82-%E4%B8%AD%E7%A7%91%E9%99%A2%E8%BD%AF%E4%BB%B6%E6%89%80-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [南京市-中科院软件所-软件开发测试实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8D%97%E4%BA%AC%E5%B8%82-%E4%B8%AD%E7%A7%91%E9%99%A2%E8%BD%AF%E4%BB%B6%E6%89%80-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%B5%8B%E8%AF%95%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 中通快运
+#### [杭州市-中通快运-Java开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E4%B8%AD%E9%80%9A%E5%BF%AB%E8%BF%90-Java%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+
+
+
+### 智融信达
+#### [全国-智融信达-C++开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%99%BA%E8%9E%8D%E4%BF%A1%E8%BE%BE-C%2B%2B%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [全国-智融信达-量化数据开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%99%BA%E8%9E%8D%E4%BF%A1%E8%BE%BE-%E9%87%8F%E5%8C%96%E6%95%B0%E6%8D%AE%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 感动数字
+#### [长沙-感动数字-Java后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%84%9F%E5%8A%A8%E6%95%B0%E5%AD%97-Java%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [长沙-感动数字-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%84%9F%E5%8A%A8%E6%95%B0%E5%AD%97-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
+
+### 诺基亚
+#### [杭州市-诺基亚上海贝尔-后端开发工程师--22000008SJ](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E8%AF%BA%E5%9F%BA%E4%BA%9A%E4%B8%8A%E6%B5%B7%E8%B4%9D%E5%B0%94-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88--22000008SJ.md)
+
+#### [杭州市-诺基亚上海贝尔-软件开发与测试实习生-22000008PB](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E8%AF%BA%E5%9F%BA%E4%BA%9A%E4%B8%8A%E6%B5%B7%E8%B4%9D%E5%B0%94-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E6%B5%8B%E8%AF%95%E5%AE%9E%E4%B9%A0%E7%94%9F-22000008PB.md)
+
+#### [杭州市诺基亚上海贝尔-软件开发实习生-AIML-22000007BC](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82%E8%AF%BA%E5%9F%BA%E4%BA%9A%E4%B8%8A%E6%B5%B7%E8%B4%9D%E5%B0%94-%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F-AIML-22000007BC.md)
+
+
+
+
+### 图软科技
+#### [杭州市-图软科技-iOS开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E5%9B%BE%E8%BD%AF%E7%A7%91%E6%8A%80-iOS%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [杭州市-图软科技-嵌入式Linux开发工程师实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E5%9B%BE%E8%BD%AF%E7%A7%91%E6%8A%80-%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [杭州市-图软科技-嵌入式开发工程师实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E6%9D%AD%E5%B7%9E%E5%B8%82-%E5%9B%BE%E8%BD%AF%E7%A7%91%E6%8A%80-%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+
+
 
 
 
