@@ -1058,13 +1058,13 @@
 
 #### [1.9.5 郑州博为峰-Python大数据分析特训营课程培训招生（郑州）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%83%91%E5%B7%9E%E5%8D%9A%E4%B8%BA%E5%B3%B0-Python%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E7%89%B9%E8%AE%AD%E8%90%A5%E8%AF%BE%E7%A8%8B%E5%9F%B9%E8%AE%AD%E6%8B%9B%E7%94%9F%EF%BC%88%E9%83%91%E5%B7%9E%EF%BC%89.md)
 
-#### [1.9.6 金三软件-【实习生】云计算工程师（DevOps方向）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E4%BA%91%E8%AE%A1%E7%AE%97%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88DevOps%E6%96%B9%E5%90%91%EF%BC%89.md)
+#### [1.9.6 金山软件-【实习生】云计算工程师（DevOps方向）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E4%BA%91%E8%AE%A1%E7%AE%97%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88DevOps%E6%96%B9%E5%90%91%EF%BC%89.md)
 
-#### [1.9.7 金三软件-【实习生】客户端开发工程师（C++）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88C%2B%2B%EF%BC%89.md)
+#### [1.9.7 金山软件-【实习生】客户端开发工程师（C++）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88C%2B%2B%EF%BC%89.md)
 
-#### [1.9.8 金三软件-【实习生】游戏后端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E6%B8%B8%E6%88%8F%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+#### [1.9.8 金山软件-【实习生】游戏后端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E6%B8%B8%E6%88%8F%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
 
-#### [1.9.9 金三软件-【实习生】游戏设计师-世界观方向](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%B8%88-%E4%B8%96%E7%95%8C%E8%A7%82%E6%96%B9%E5%90%91.md)
+#### [1.9.9 金山软件-【实习生】游戏设计师-世界观方向](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E4%B8%89%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%B8%88-%E4%B8%96%E7%95%8C%E8%A7%82%E6%96%B9%E5%90%91.md)
 
 #### [2.1.1 金山软件-【实习生】引擎开发工程师（虚幻引擎C++）](https://github.com/0voice/enterprise_job_recommend/blob/master/%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6-%E3%80%90%E5%AE%9E%E4%B9%A0%E7%94%9F%E3%80%91%E5%BC%95%E6%93%8E%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%88%E8%99%9A%E5%B9%BB%E5%BC%95%E6%93%8EC%2B%2B%EF%BC%89.md)
 
