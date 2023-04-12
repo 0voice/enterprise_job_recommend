@@ -1433,5 +1433,7 @@
 <a href="https://github.com/halleywj">
     <img src="https://avatars1.githubusercontent.com/u/11271621?s=400&v=4" width="40px">
 </a> 
-
+<a href="https://github.com/majieqq">
+    <img src="https://avatars1.githubusercontent.com/u/113533745?s=400&v=4" width="40px">
+</a> 
 
