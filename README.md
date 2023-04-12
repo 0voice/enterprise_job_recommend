@@ -1455,6 +1455,54 @@
 
 #### [北京市-网易-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
 
+#### [北京市-网易有道-后台开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-美团-C++后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BE%8E%E5%9B%A2-C%2B%2B%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-美团-java开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BE%8E%E5%9B%A2-java%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-美团-测试开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BE%8E%E5%9B%A2-%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-翱捷科技ASR-嵌入式软件开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E7%BF%B1%E6%8D%B7%E7%A7%91%E6%8A%80ASR-%E5%B5%8C%E5%85%A5%E5%BC%8F%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-联合永道-前端开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%81%94%E5%90%88%E6%B0%B8%E9%81%93-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-航天二院706所-Python开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%88%AA%E5%A4%A9%E4%BA%8C%E9%99%A2706%E6%89%80-Python%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-若股量化-系统后端开发](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%8B%A5%E8%82%A1%E9%87%8F%E5%8C%96-%E7%B3%BB%E7%BB%9F%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91.md)
+
+#### [北京市-营探-Python后端工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%90%A5%E6%8E%A2-Python%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-营探-后端实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%90%A5%E6%8E%A2-%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-蜜堂有信-开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%9C%9C%E5%A0%82%E6%9C%89%E4%BF%A1-%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-行丰银拓-Web前端或Python后端](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%A1%8C%E4%B8%B0%E9%93%B6%E6%8B%93-Web%E5%89%8D%E7%AB%AF%E6%88%96Python%E5%90%8E%E7%AB%AF.md)
+
+#### [北京市-西门子中国-Django开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%A5%BF%E9%97%A8%E5%AD%90%E4%B8%AD%E5%9B%BD-Django%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-诺亦腾-嵌入式开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%AF%BA%E4%BA%A6%E8%85%BE-%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-豆瓣网-iOS开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%B1%86%E7%93%A3%E7%BD%91-iOS%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-轻松集团-后端实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E8%BD%BB%E6%9D%BE%E9%9B%86%E5%9B%A2-%E5%90%8E%E7%AB%AF%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-银杉健康-后端研发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%93%B6%E6%9D%89%E5%81%A5%E5%BA%B7-%E5%90%8E%E7%AB%AF%E7%A0%94%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-闪思科技-unity开发](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%97%AA%E6%80%9D%E7%A7%91%E6%8A%80-unity%E5%BC%80%E5%8F%91.md)
+
+#### [北京市-闻道启辰-Web开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%97%BB%E9%81%93%E5%90%AF%E8%BE%B0-Web%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-闻道启辰科技-Web开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%97%BB%E9%81%93%E5%90%AF%E8%BE%B0%E7%A7%91%E6%8A%80-Web%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
+#### [北京市-青电云-Web后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%9D%92%E7%94%B5%E4%BA%91-Web%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-青电云-后端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%9D%92%E7%94%B5%E4%BA%91-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-鳄梨科技-前端开发实习生](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%B3%84%E6%A2%A8%E7%A7%91%E6%8A%80-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AE%9E%E4%B9%A0%E7%94%9F.md)
+
+#### [北京市-龙寰科技-JAVA开发工程师](https://github.com/0voice/enterprise_job_recommend/blob/master/%E5%8C%97%E4%BA%AC%E5%B8%82-%E9%BE%99%E5%AF%B0%E7%A7%91%E6%8A%80-JAVA%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.md)
+
 
 
 
